@@ -1,3 +1,4 @@
+Author: Jasmeen 
 # fwgitshop
 A demo repo for learning Github
 # These are some of basices of project that needs to include in readme file   
